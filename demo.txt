@@ -3,3 +3,5 @@ This file contains some basic information.
 I will be using this file for understanding GIT and GitHub.
 I am Siddharth Agarwal, a Computer Science Undergraduate from Kolkata, India.
 I like Statistics and working with data.
+
+I am currently working as a Machine Learning Intern at a startup in India.
